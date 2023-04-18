@@ -1,5 +1,5 @@
 # multi-react-jalali-datepicker
-This is a demo application for creating a datepicker by [Material UI](mui.com)
+This is a demo application for creating a datepicker by Material UI
 
 
 
